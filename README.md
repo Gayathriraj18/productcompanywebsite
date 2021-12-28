@@ -207,6 +207,8 @@ product coding:
   </body>
 </html>
 ```
+
+```
 people coding:
 <!DOCTYPE html>
 <html lang="en">
@@ -274,6 +276,7 @@ people coding:
   </body>
 </html>
 ```
+
 ```
 contact coding:
 <!DOCTYPE html>
